@@ -1,0 +1,9 @@
+discord.py==2.3.2
+aiohttp
+Pillow
+requests
+python-dotenv
+yt-dlp
+arabic-reshaper
+python-bidi
+PyNaCl
